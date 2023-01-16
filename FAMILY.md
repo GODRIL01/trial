@@ -129,6 +129,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w449585463_b3840
 #EXTINF:-1 tvg-id="CNBC INDONESIA " tvg-logo="https://cdn.ksa.my.id/cnbcindonesia.png" group-title="National TV",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b384000_sleng.m3u8
 
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="BBS TV " tvg-logo="roup-https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Kedua_BBS_TV_Surabaya.png" group-title="National TV",BBS TV
+http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
