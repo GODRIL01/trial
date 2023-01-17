@@ -119,12 +119,12 @@ https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CNN INDONESIA " tvg-logo="https://cdn.ksa.my.id/cnnindo.png" group-title="National TV",CNN INDONESIA
+#EXTINF:-1 tvg-id="CNN INDONESIA " tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png " group-title="National TV",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w449585463_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CNBC INDONESIA "tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/1200px-Cnn.svg.png " group-title="National TV",CNBC INDONESIA
+#EXTINF:-1 tvg-id="CNBC INDONESIA "tvg-logo=" " group-title="National TV",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b384000_sleng.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
