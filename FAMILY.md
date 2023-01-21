@@ -660,8 +660,14 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Sports",True Premier Football 1 " tvg-logo=" https://i.imgur.com/9FJknMK.png " group-title="Sports",True Premier Football 1
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
+#EXTINF:0 tvg-id="Sports",True Premier Football 1 " tvg-logo=" https://i.imgur.com/9FJknMK.png " group-title="Sports",True Premier Football 1
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
+#EXTINF:0 tvg-id="Sports",True Premier Football 1 " tvg-logo=" https://i.imgur.com/9FJknMK.png " group-title="Sports",True Premier Football 1
+https://sport.livedoomovies.com:4433/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
+#EXTINF:0 tvg-id="Sports",True Premier Football 1 " tvg-logo=" https://i.imgur.com/9FJknMK.png " group-title="Sports",True Premier Football 1
+https://sport.livedoomovies.com:4434/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
 
