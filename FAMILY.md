@@ -657,6 +657,10 @@ http://warkop.cf/80/bein/08.m3u8
 
 http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
 
 
 
