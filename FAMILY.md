@@ -55,7 +55,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1178308444_b744100_
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Kompas_TV_%282011%29_logo.svg " group-title="National TV",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://www.pngfind.com/pngs/m/265-2659271_logo-kompas-di-layar-kaca-1024x300-kompas-tv.png " group-title="National TV",Kompas TV
 https://liveaneviadev.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
