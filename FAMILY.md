@@ -159,7 +159,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="RodjaTV.Id" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="Religion",RodjaTV
+#EXTINF:0 tvg-id="RodjaTV.Id" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="Religion",RodjaTV
 http://210.210.155.35/session/ff7f8ea4-6df5-11ed-8981-c81f66f89318/qwr9ew/s/s14/index10.m3u8
 
 
