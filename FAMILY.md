@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TvOne_logo_%282008%29.svg/revision/latest?cb=20181207020439 " group-title="National TV",TVONE
+#EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://grafologiindonesia.com/wp-content/uploads/2016/05/Logo-TvOne.jpg " group-title="National TV",TVONE
 https://liveaneviadev.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 
