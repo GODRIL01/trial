@@ -1,8 +1,8 @@
-
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="TVOne.Id" tvg-logo=" https://www.transtv.co.id/livetv/anytv/TVONE_live_streaming_tv.jpg" group-title="National TV",TVONE
+#EXTINF:0 tvg-id="TVOne.Id" tvg-logo=" https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png" group-title="National TV",TVONE
 https://liveaneviadev.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 
@@ -14,12 +14,12 @@ https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://www.transtv.co.id/livetv/anytv/GTV_live_streaming_tv.jpg " group-title="National TV",GTV
+#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png " group-title="National TV",GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg " group-title="National TV",MNCTV
+#EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png " group-title="National TV",MNCTV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -35,7 +35,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://www.transtv.co.id/livetv/anytv/INDOSIAR_live_streaming_tv.jpg " group-title="National TV", INDOSIAR
+#EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png " group-title="National TV", INDOSIAR
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
@@ -43,7 +43,7 @@ https://geocities.ws/ariev7xx/moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://awscdn.detik.net.id/transmedia17/images/logo-trans7.png " group-title="National TV",Trans 7
+#EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://www.kibrispdr.org/data/431/gambar-logo-trans-7-0.jpg " group-title="National TV",Trans 7
 https://liveaneviadev.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -55,18 +55,18 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1178308444_b744100_
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg " group-title="National TV",Kompas TV
+#EXTINF:0 tvg-id="KompasTV.Id" tvg-logo="https://www.pngfind.com/pngs/m/265-2659271_logo-kompas-di-layar-kaca-1024x300-kompas-tv.png " group-title="National TV",Kompas TV
 https://liveaneviadev.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Net..Id" tvg-logo=" https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="National TV",Net.
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png " group-title="National TV",Net.
 https://liveaneviadev.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="https://cdn.medcom.id/images/content/2020/07/10/1163496/EsjFv0pLI2.jpg " group-title="National TV",Metro TV
+#EXTINF:0 tvg-id="MetroTV.Id" tvg-logo="https://w7.pngwing.com/pngs/859/451/png-transparent-metrotv-indonesia-television-channel-news-metro-city-television-text-trademark.png " group-title="National TV",Metro TV
 https://liveaneviadev.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -76,17 +76,17 @@ https://liveaneviadev.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://www.transtv.co.id/livetv/anytv/ANTV_live_streaming_tv.jpg " group-title="National TV",ANTV
+#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://e7.pngegg.com/pngimages/495/518/png-clipart-antv-television-channel-indonesia-logo-tv-television-cdr.png " group-title="National TV",ANTV
 https://liveaneviadev.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="JakTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png " group-title="National TV",JAKTV
+#EXTINF:0 tvg-id="JakTV.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Jaktv_logo.png " group-title="National TV",JAKTV
 https://liveaneviadev.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="JTV.Id" tvg-logo="https://www.androphedia.com/wp-content/uploads/2021/02/JTV.jpg " group-title="National TV",JTV
+#EXTINF:0 tvg-id="JTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/180px-JTV_%282012%29.svg.png " group-title="National TV",JTV
 https://liveaneviadev.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,7 +96,7 @@ https://liveaneviadev.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="DAAITV.Id"tvg-logo="https://www.dmidgroup.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-22-at-9.38.40-PM.png"group-title="National TV",DAAI TV
+#EXTINF:0 tvg-id="DAAITV.Id"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png "group-title="National TV",DAAI TV
 https://liveaneviadev.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
@@ -108,7 +108,7 @@ https://liveaneviadev.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="National TV",Berita Satu
+#EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1280px-BTV_%28Indonesia%29_logo.svg.png " group-title="National TV",Berita Satu
 https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -649,16 +649,9 @@ https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #EXTINF:0 tvg-country="AR" tvg-logo=" https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/dubaisports-logo.jpg" group-title="Sports",DUBAI SPORTS
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9146.m3u8
 
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-http://warkop.cf/80/bein/08.m3u8
 
-http://juzu.online:2082/luinnew/H8hQgb7455/237699?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="Sports",True Premier Football 1 " tvg-logo=" https://i.imgur.com/9FJknMK.png " group-title="Sports",True Premier Football 1
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
 
