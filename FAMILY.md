@@ -655,7 +655,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 
 #EXTINF:0 tvg-country="AR" tvg-logo=" https://dash.tvzinos.com/assets/images/channel/323783.jpg" group-title="Sports",C Deportivo
-https://young-river-bd51.hwisudidlsl.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|https://www.movie87hd.com
 
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
