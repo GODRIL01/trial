@@ -655,6 +655,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 
 #EXTINF:0 tvg-country="AR" tvg-logo=" https://dash.tvzinos.com/assets/images/channel/323783.jpg" group-title="Sports",C Deportivo
+https://newtest.webtv1.lol/ddyx2/premium91/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
 
