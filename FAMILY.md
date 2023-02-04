@@ -654,7 +654,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="AR" tvg-logo=" https://dash.tvzinos.com/assets/images/channel/323783.jpg" group-title="Sports",C Deportivo
-https://no2.webtv1.lol/ddy1/premium61/playlist.m3u8
+http://vip.tvxvip.com:25443/live/V578HLKQ67bh/Y2VGScCbdo/9134.m3u8
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
 
