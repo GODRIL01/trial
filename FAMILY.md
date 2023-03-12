@@ -1,4 +1,16 @@
 
+YANG DI SALIN BUKAN ISINYA LINK YA,,,,,,,
+
+CUKUP LINKNYA SAJA LSG DI COPY
+
+
+TANK,,,,,,
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png " group-title="GRATIS",MNCTV TRIAL
