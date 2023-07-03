@@ -338,10 +338,6 @@ https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:0 tvg-id="CBeebies.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/cbeebies.png " group-title="Kids",CBieebies TRIAL
 https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="MiaoMi.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/miaomi.png " group-title="Kids",MiaoMi TRIAL
-https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
