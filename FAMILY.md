@@ -161,13 +161,12 @@ https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Garuda TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/768px-Logo_GarudaTV_Merah_Flat_2022.svg.png " group-title="Lokal ",Garuda TV
+#EXTINF:0 tvg-id="PONTV.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png " group-title="Lokal ",PONTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="ADI TV.id" tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png " group-title="Lokal ",ADI TV
-
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
