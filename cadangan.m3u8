@@ -78,9 +78,9 @@ https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://t.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="Lokal ",SCTV
+https://cdnjkt2.transvision.co.id/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 https://raw.githubusercontent.com/byu4876/indosiar.m3u/main/README.md
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 
