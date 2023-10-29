@@ -96,11 +96,10 @@ https://cdnjkt2.transvision.co.id/live/master/100/4028c68587f789fe018804f4bbb528
 https://raw.githubusercontent.com/byu4876/indosiar.m3u/main/README.md
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
-http://108.181.123.99:8070/live/devtv/5af3eeb538/162138.ts
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
