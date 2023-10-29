@@ -100,7 +100,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTM3U
-#EXTINF:-1,Unknown 0 tvg-id="moji.Id" tvg-logo="" group-title="Lokal ",moji
+#EXTINF:-1,Unknown 0
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 
