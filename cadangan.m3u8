@@ -99,9 +99,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo=" " group-title="Lokal ",moja
-http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
-
+#EXTM3U
+#EXTINF:-1,Unknown 0 tvg-id="moji.Id" tvg-logo="" group-title="Lokal ",moji
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="" group-title="Lokal ",moji
