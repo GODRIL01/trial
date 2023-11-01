@@ -35,7 +35,7 @@ url-tvg="https://raw.githubusercontent.com/GODRIL01/trial/main/godrilEpg.xml
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.id.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://ktk7k-spbzn.ads.tremorhub.com/ad/mtag?adCode=ktk7k-5xuyf&playerWidth=640&playerHeight=480&srcPageUrl=https://www.visionplus.id/watch/channel/3/gtv?cnumb=3&videoId=&siteName=Visionplus&domain=visionplus.id&deviceID=&appBundle=id.visionplus.android.atv&custom=tobacco_visionplus
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="Lokal ",RCTI
 https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
