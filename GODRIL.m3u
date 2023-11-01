@@ -35,7 +35,7 @@ url-tvg="https://raw.githubusercontent.com/GODRIL01/trial/main/godrilEpg.xml
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdb5de569b84b5273b758afcebbedd427ae70317.cws.conviva.com/0/wsg
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1tvg-id="RCTI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rcti-new-logo.png " group-title="Lokal ",RCTI
 https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
